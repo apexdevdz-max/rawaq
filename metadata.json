@@ -1,0 +1,6 @@
+{
+  "name": "RAWAQ — Specialty Coffee, Brunch & Slow Living",
+  "description": "Where every cup feels like home. Discover the art of slow living, exquisite specialty coffee, artisanal brunch, and soulful gatherings at RAWAQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
