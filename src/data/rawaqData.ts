@@ -38,12 +38,18 @@ export interface GalleryItem {
   archShape: 'arch' | 'rounded';
 }
 
+import heroBarArch from '../assets/images/hero_bar_arch_1791635860900.jpg';
+import heroDiningArch from '../assets/images/hero_dining_arch_1791635874159.jpg';
+import galleryCoffeeCraft from '../assets/images/gallery_coffee_craft_1791635886701.jpg';
+import galleryBrunchSpread from '../assets/images/gallery_brunch_spread_1791635896613.jpg';
+import storyRoastingAmbiance from '../assets/images/story_roasting_ambiance_1791635907530.jpg';
+
 export const IMAGES = {
-  heroBarArch: '/src/assets/images/hero_bar_arch_1791635860900.jpg',
-  heroDiningArch: '/src/assets/images/hero_dining_arch_1791635874159.jpg',
-  galleryCoffeeCraft: '/src/assets/images/gallery_coffee_craft_1791635886701.jpg',
-  galleryBrunchSpread: '/src/assets/images/gallery_brunch_spread_1791635896613.jpg',
-  storyRoastingAmbiance: '/src/assets/images/story_roasting_ambiance_1791635907530.jpg',
+  heroBarArch,
+  heroDiningArch,
+  galleryCoffeeCraft,
+  galleryBrunchSpread,
+  storyRoastingAmbiance,
   rawaqShopLogo: 'https://tablebeep.com/public-logo.php?shop=99',
 };
 
